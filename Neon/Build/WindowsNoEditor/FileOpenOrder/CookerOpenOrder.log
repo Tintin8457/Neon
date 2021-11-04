@@ -1,988 +1,990 @@
-"G:/Final Project/Neon/Neon/Content/Maps/NeonCity_BuiltData.uasset" 0
-"G:/Final Project/Neon/Neon/Content/Maps/SkyBox/wallpaperflare_com_wallpaper.uasset" 1
-"G:/Final Project/Neon/Neon/Content/FlyingCar_LS.uasset" 2
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_OldTV_Lines_01.uasset" 3
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_White.uasset" 4
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Functions/MF_Advanced_Flicker.uasset" 5
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Dots.uasset" 6
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Dots_02.uasset" 7
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Glitch_01.uasset" 8
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Glitch_02.uasset" 9
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Secondary_Texture_1.uasset" 10
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Texture_Time_1.uasset" 11
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_01.uasset" 12
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Master_Materials/M_Sci_Fi_Sign.uasset" 13
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Dots_03.uasset" 14
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Dots_04.uasset" 15
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Glitch_04.uasset" 16
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Secondary_Texture_2.uasset" 17
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Secondary_Texture_3.uasset" 18
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/JumpSign.uasset" 19
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/Crouch.uasset" 20
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_02_01.uasset" 21
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_02_02.uasset" 22
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_03_01.uasset" 23
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_03_02.uasset" 24
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_08_01.uasset" 25
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_08_02.uasset" 26
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_10_.uasset" 27
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_11_01.uasset" 28
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_11_02.uasset" 29
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_11_03.uasset" 30
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_12_01.uasset" 31
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_12_02.uasset" 32
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_13_.uasset" 33
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_14_.uasset" 34
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_15_01.uasset" 35
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_15_02.uasset" 36
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_16_01.uasset" 37
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_16_02.uasset" 38
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Black.uasset" 39
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Texture_Time_2.uasset" 40
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Texture_Time_3.uasset" 41
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BitMask.uasset" 42
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/BlurSampleOffsets.uasset" 43
-"G:/Final Project/Neon/Neon/Content/Maps/GlowMaterial/M_Outlines.uasset" 44
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Silohouette.uasset" 45
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Small_Pipe_Corner.uasset" 46
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/red.uasset" 47
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/SolidGlow3.uasset" 48
-"G:/Final Project/Neon/Neon/Content/Maps/SkyBox/testcity.uasset" 49
-"G:/Final Project/Neon/Neon/Content/Maps/SkyBox/testcity_Mat.uasset" 50
-"G:/Final Project/Neon/Neon/Content/Maps/SkyBox/testcity_Mat_Inst.uasset" 51
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/WindowGlow3.uasset" 52
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Water_M.uasset" 53
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Water_N.uasset" 54
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 55
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 56
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Water_Ocean.uasset" 57
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/resume_clicked.uasset" 58
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/resume.uasset" 59
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/Quit-clicked.uasset" 60
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/Quit-button.uasset" 61
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/pause_menu_final.uasset" 62
-"G:/Final Project/Neon/Neon/Content/UI/PauseMenu.uasset" 63
-"G:/Final Project/Neon/Neon/Content/UI/hEALTH_BAR_EXAMPLE_GREEN.uasset" 64
-"G:/Final Project/Neon/Neon/Content/UI/Empty_health.uasset" 65
-"G:/Final Project/Neon/Neon/Content/UI/HealthBar.uasset" 66
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 67
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 68
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 69
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 70
-"../../../Engine/Content/BasicShapes/Plane.uasset" 71
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/Score_counter_box.uasset" 72
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/Score.uasset" 73
-"G:/Final Project/Neon/Neon/Content/UI/GameUI.uasset" 74
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningSlideRoot_Skeleton.uasset" 75
-"G:/Final Project/Neon/Neon/Content/SFX/FootSteps/NewStep4.uasset" 76
-"G:/Final Project/Neon/Neon/Content/SFX/FootSteps/NewStep3.uasset" 77
-"G:/Final Project/Neon/Neon/Content/SFX/FootSteps/NewStep2.uasset" 78
-"G:/Final Project/Neon/Neon/Content/SFX/FootSteps/NewStep.uasset" 79
-"G:/Final Project/Neon/Neon/Content/SFX/FootSteps/Steps.uasset" 80
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 81
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 82
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Running__1__Anim_mixamo_com.uasset" 83
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Idle__1__Anim_mixamo_com.uasset" 84
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/RunningSlideRoot_Skeleton_BlendSpace1D.uasset" 85
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 86
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/RunningSlideRoot_Skeleton_AnimBlueprint.uasset" 87
-"G:/Final Project/Neon/Neon/Content/SFX/Slide/Slide.uasset" 88
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningSlideRoot_Anim.uasset" 89
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningSlideRoot_Anim_Montage.uasset" 90
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningSlideRoot_PhysicsAsset.uasset" 91
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/UMesh_PolySphere1.uasset" 92
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/UMesh_PM3D_Cube3D1_2.uasset" 93
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/UMesh_HairBase.uasset" 94
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/UMesh_Armor.uasset" 95
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/PM3D_Sphere3D1_1.uasset" 96
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningSlideRoot.uasset" 97
-"G:/Final Project/Neon/Neon/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" 98
-"G:/Final Project/Neon/Neon/Content/Geometry/Meshes/CubeMaterial.uasset" 99
-"G:/Final Project/Neon/Neon/Content/Geometry/Meshes/1M_Cube.uasset" 100
-"G:/Final Project/Neon/Neon/Content/BluePrints/DamagingObject.uasset" 101
-"G:/Final Project/Neon/Neon/Content/BluePrints/Small_Pipe_Corner2_Blueprint.uasset" 102
-"G:/Final Project/Neon/Neon/Content/BluePrints/Small_Pipe_Corner4_Blueprint.uasset" 103
-"G:/Final Project/Neon/Neon/Content/BluePrints/Small_Pipe_Corner8_Blueprint.uasset" 104
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 105
-"../../../Engine/Content/BasicShapes/Cube.uasset" 106
-"G:/Final Project/Neon/Neon/Content/BluePrints/MovingPlatform/Platform2.uasset" 107
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Antenna.uasset" 108
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Glass.uasset" 109
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Concrete.uasset" 110
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Building_1.uasset" 111
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Building_2.uasset" 112
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Deck_Chair.uasset" 113
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Pipe.uasset" 114
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Small_Pipe.uasset" 115
-"G:/Final Project/Neon/Neon/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 116
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 117
-"G:/Final Project/Neon/Neon/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 118
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 119
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 120
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 121
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Textures/T_Male_N.uasset" 122
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 123
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 124
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 125
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 126
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 127
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 128
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 129
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 130
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 131
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 132
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 133
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 134
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 135
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 136
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Alpha_Body_MAT.uasset" 137
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Alpha_Joints_MAT.uasset" 138
-"G:/Final Project/Neon/Neon/Content/SFX/Kicking/Swish_4.uasset" 139
-"G:/Final Project/Neon/Neon/Content/SFX/Kicking/Swish_3.uasset" 140
-"G:/Final Project/Neon/Neon/Content/SFX/Kicking/Swish.uasset" 141
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/CrossPunch4UE4.uasset" 142
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/CrossPunch4UE4_Montage.uasset" 143
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/MmaKick4UE4.uasset" 144
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Kick.uasset" 145
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/NinjaIdle4UE4.uasset" 146
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Punching_2_4UE4.uasset" 147
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Punching_2_4UE4_Montage.uasset" 148
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/RunningForwardFlip4UE4.uasset" 149
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/SlidingDown.uasset" 150
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/RunningSlide_1_4UE4.uasset" 151
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/UE4Slide.uasset" 152
-"G:/Final Project/Neon/Neon/Content/BluePrints/MovingPlatform/Platform.uasset" 153
-"G:/Final Project/Neon/Neon/Content/MovingPlatform/Platform.uasset" 154
-"G:/Final Project/Neon/Neon/Content/MovingPlatform/Platform12.uasset" 155
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/ArmorMaterial.uasset" 156
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/BackpackMaterial.uasset" 157
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/BodyMaterial.uasset" 158
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/EyesMaterial.uasset" 159
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/HairMaterial.uasset" 160
-"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 161
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NeonSkeletalMesh_Skeleton.uasset" 162
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NeonSkeletalMesh_PhysicsAsset.uasset" 163
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/UMesh_PolySphere1.uasset" 164
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/UMesh_PM3D_Cube3D1_2.uasset" 165
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/UMesh_HairBase.uasset" 166
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/UMesh_Armor.uasset" 167
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/PM3D_Sphere3D1_1.uasset" 168
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NeonSkeletalMesh.uasset" 169
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Standing_Idle_Anim_mixamo_com.uasset" 170
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running_Anim_mixamo_com.uasset" 171
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NeonSkeletalMesh_Skeleton_BlendSpace1D.uasset" 172
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NeonSkeletalMesh_Skeleton_AnimBlueprint.uasset" 173
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running_PhysicsAsset.uasset" 174
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/UMesh_PolySphere1.uasset" 175
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/UMesh_PM3D_Cube3D1_2.uasset" 176
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/UMesh_HairBase.uasset" 177
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/UMesh_Armor.uasset" 178
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/PM3D_Sphere3D1_1.uasset" 179
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running.uasset" 180
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running_Anim_Unreal_Take.uasset" 181
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running_Jump_PhysicsAsset.uasset" 182
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running_Jump.uasset" 183
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running_Jump_Anim_mixamo_com.uasset" 184
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running_Jump_Anim_Take_001.uasset" 185
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running_Slide_PhysicsAsset.uasset" 186
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running_Slide.uasset" 187
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running_Slide_Anim_mixamo_com.uasset" 188
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running_Slide_Anim_mixamo_com_Montage.uasset" 189
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Running_Slide_Anim_Take_001.uasset" 190
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Standing_Idle_PhysicsAsset.uasset" 191
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Standing_Idle.uasset" 192
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Animation/Standing_Idle_Anim_Unreal_Take.uasset" 193
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly_Skeleton.uasset" 194
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly_Anim.uasset" 195
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly_Anim_Montage.uasset" 196
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly_Skeleton_BlendSpace1D.uasset" 197
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly_Skeleton_AnimBlueprint.uasset" 198
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Slide__1__Skeleton.uasset" 199
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Jump_PhysicsAsset.uasset" 200
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/UMesh_PolySphere1.uasset" 201
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/UMesh_PM3D_Cube3D1_2.uasset" 202
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/UMesh_HairBase.uasset" 203
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/UMesh_Armor.uasset" 204
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/PM3D_Sphere3D1_1.uasset" 205
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Jump.uasset" 206
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Jump_Anim_mixamo_com.uasset" 207
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Jump_Anim_mixamo_com_Montage.uasset" 208
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Jump_Anim_Take_001.uasset" 209
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Slide__1__PhysicsAsset.uasset" 210
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Slide__1_.uasset" 211
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Slide__1__Anim_mixamo_com.uasset" 212
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Slide__1__Anim_mixamo_com_Montage.uasset" 213
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Slide__1__Anim_Take_001.uasset" 214
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running__1__PhysicsAsset.uasset" 215
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running__1_.uasset" 216
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running__1__Anim_mixamo_com.uasset" 217
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running__1__Anim_Take_001.uasset" 218
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningJumpRoot_PhysicsAsset.uasset" 219
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningJumpRoot.uasset" 220
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningJumpRoot_Anim.uasset" 221
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningRoot_PhysicsAsset.uasset" 222
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningRoot.uasset" 223
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningRoot_Anim.uasset" 224
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Idle__1__PhysicsAsset.uasset" 225
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/UMesh_PolySphere1.uasset" 226
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/UMesh_PM3D_Cube3D1_2.uasset" 227
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/UMesh_HairBase.uasset" 228
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/UMesh_Armor.uasset" 229
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/PM3D_Sphere3D1_1.uasset" 230
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Idle__1_.uasset" 231
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Idle__1__Anim_Unreal_Take.uasset" 232
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Running__1__PhysicsAsset.uasset" 233
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Running__1_.uasset" 234
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Running__1__Anim_Unreal_Take.uasset" 235
-"G:/Final Project/Neon/Neon/Content/SFX/BGM/NeonBGM.uasset" 236
-"G:/Final Project/Neon/Neon/Content/SFX/Hum/NeonHum.uasset" 237
-"G:/Final Project/Neon/Neon/Content/SFX/Jump/Jump3.uasset" 238
-"G:/Final Project/Neon/Neon/Content/SFX/Jump/Jump2.uasset" 239
-"G:/Final Project/Neon/Neon/Content/SFX/Jump/Jump1.uasset" 240
-"G:/Final Project/Neon/Neon/Content/SFX/Jump/Jumps.uasset" 241
-"G:/Final Project/Neon/Neon/Content/SFX/JumpEnd/JumpEnd3.uasset" 242
-"G:/Final Project/Neon/Neon/Content/SFX/JumpEnd/JumpEnd2.uasset" 243
-"G:/Final Project/Neon/Neon/Content/SFX/JumpEnd/JumpEnd.uasset" 244
-"G:/Final Project/Neon/Neon/Content/SFX/JumpEnd/JumpsEnd.uasset" 245
-"G:/Final Project/Neon/Neon/Content/SFX/Punch/Punch2.uasset" 246
-"G:/Final Project/Neon/Neon/Content/SFX/Punch/Punch1.uasset" 247
-"G:/Final Project/Neon/Neon/Content/SFX/Punch/Punches.uasset" 248
-"G:/Final Project/Neon/Neon/Content/SideScrollerBP/SideScrollerOverview.uasset" 249
-"G:/Final Project/Neon/Neon/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset" 250
-"G:/Final Project/Neon/Neon/Content/SideScrollerBP/Meshes/CubeMaterial.uasset" 251
-"G:/Final Project/Neon/Neon/Content/SideScrollerBP/Meshes/Ramp_Mesh.uasset" 252
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Basic_Wall.uasset" 253
-"G:/Final Project/Neon/Neon/Content/StarterContent/Architecture/Pillar_50x500.uasset" 254
-"G:/Final Project/Neon/Neon/Content/StarterContent/Architecture/Wall_400x300.uasset" 255
-"G:/Final Project/Neon/Neon/Content/StarterContent/Architecture/Wall_400x400.uasset" 256
-"G:/Final Project/Neon/Neon/Content/StarterContent/Architecture/Wall_500x500.uasset" 257
-"G:/Final Project/Neon/Neon/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 258
-"G:/Final Project/Neon/Neon/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 259
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Collapse01.uasset" 260
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Collapse02.uasset" 261
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Explosion01.uasset" 262
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Explosion02.uasset" 263
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Fire01.uasset" 264
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Fire_Sparks01.uasset" 265
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Light01.uasset" 266
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Light01_Cue.uasset" 267
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Light02.uasset" 268
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Light02_Cue.uasset" 269
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Smoke01.uasset" 270
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Starter_Birds01.uasset" 271
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Starter_Music01.uasset" 272
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Starter_Wind05.uasset" 273
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Starter_Wind06.uasset" 274
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Steam01.uasset" 275
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Explosion_Cue.uasset" 276
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 277
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 278
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 279
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 280
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 281
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 282
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 283
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 284
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Burst_M.uasset" 285
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/Materials/M_Burst.uasset" 286
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/P_Explosion.uasset" 287
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 288
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 289
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 290
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Bush_N.uasset" 291
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Bush_D.uasset" 292
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/Materials/M_Bush.uasset" 293
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_Bush.uasset" 294
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Chair_N.uasset" 295
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Chair_M.uasset" 296
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/Materials/M_Chair.uasset" 297
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_Couch.uasset" 298
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Door_N.uasset" 299
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Door_M.uasset" 300
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/Materials/M_Door.uasset" 301
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Glass.uasset" 302
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_Door.uasset" 303
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 304
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 305
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 306
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 307
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_RockMesh_N.uasset" 308
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_RockMesh_M.uasset" 309
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 310
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/Materials/M_Rock.uasset" 311
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_Rock.uasset" 312
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Shelf_N.uasset" 313
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Shelf_M.uasset" 314
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/Materials/M_Shelf.uasset" 315
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_Shelf.uasset" 316
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Basic_Floor.uasset" 317
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_Stairs.uasset" 318
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Cone.uasset" 319
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 320
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 321
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Pipe.uasset" 322
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 323
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 324
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Plane.uasset" 325
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Torus.uasset" 326
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Trim.uasset" 327
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 328
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 329
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 330
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Tube.uasset" 331
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 332
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 333
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 334
-"G:/Final Project/Neon/Neon/Content/Textures/GodRay.uasset" 335
-"G:/Final Project/Neon/Neon/Content/Textures/GodRayLight.uasset" 336
-"G:/Final Project/Neon/Neon/Content/UI/full_bar.uasset" 337
-"G:/Final Project/Neon/Neon/Content/UI/Score1.uasset" 338
-"G:/Final Project/Neon/Neon/Content/UI/U_Empty_health.uasset" 339
-"G:/Final Project/Neon/Neon/Content/UI/U_full_bar.uasset" 340
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/BackButton.uasset" 341
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/BackButtonHover.uasset" 342
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/BackButtonPressed.uasset" 343
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/ControlMenu.uasset" 344
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/ControlMenuUpdated.uasset" 345
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/Controls_Button_selected.uasset" 346
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/Exit_button_selected.uasset" 347
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/main_screen1.uasset" 348
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/main_screen1_Mat.uasset" 349
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/newgame_clicked.uasset" 350
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/new_game.uasset" 351
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/Exit_button_clicked.uasset" 352
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/Exit_button.uasset" 353
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/controls_button.uasset" 354
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/controlls_clicked.uasset" 355
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/new_game.uasset" 356
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/Exit_button.uasset" 357
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/controls_button.uasset" 358
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/controller.uasset" 359
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/back_clicked.uasset" 360
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/back.uasset" 361
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/BG.uasset" 362
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/ControlsMenu.uasset" 363
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/MMenu.uasset" 364
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/MenuController.uasset" 365
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/New_game_selected.uasset" 366
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/Score1.uasset" 367
-"G:/Final Project/Neon/Neon/Content/VFX/ThirdPersonBP/feather_test1.uasset" 368
-"G:/Final Project/Neon/Neon/Content/VFX/ThirdPersonBP/Feather.uasset" 369
-"G:/Final Project/Neon/Neon/Content/VFX/ThirdPersonBP/featherburst.uasset" 370
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 371
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 372
-"../../../Engine/Content/BasicShapes/Cone.uasset" 373
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 374
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 375
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 376
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 377
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 378
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 379
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 380
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 381
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 382
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 383
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 384
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 385
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 386
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 387
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 388
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 389
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 390
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 391
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 392
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 393
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 394
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 395
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 396
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 397
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 398
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 399
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 400
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 401
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 402
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 403
-"../../../Engine/Content/EditorResources/S_Note.uasset" 404
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 405
-"../../../Engine/Content/EditorResources/S_Terrain.uasset" 406
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 407
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 408
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 409
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 410
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 411
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 412
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 413
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 414
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 415
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 416
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 417
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 418
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 419
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 420
-"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 421
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 422
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 423
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 424
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 425
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 426
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 427
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 428
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 429
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 430
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 431
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 432
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 433
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 434
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 435
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 436
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 437
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 438
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 439
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 440
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 441
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 442
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 443
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 444
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 445
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 446
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 447
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 448
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 449
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 450
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 451
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 452
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 453
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 454
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 455
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 456
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 457
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 458
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 459
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 460
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 461
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 462
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 463
-"../../../Engine/Content/EngineResources/Black.uasset" 464
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 465
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 466
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 467
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 468
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 469
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 470
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 471
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 472
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 473
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 474
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 475
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 476
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 477
-"../../../Engine/Content/EngineSounds/Master.uasset" 478
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 479
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 480
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 481
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 482
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 483
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 484
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 485
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 486
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 487
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 488
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 489
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 490
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 491
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 492
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 493
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 494
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 495
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 496
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 497
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 498
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 499
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 500
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 501
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 502
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 503
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 504
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 505
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 506
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 507
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 508
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 509
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 510
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 511
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 512
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 513
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 514
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 515
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 516
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 517
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 518
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 519
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 520
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 521
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 522
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 523
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 524
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 525
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 526
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 527
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 528
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 529
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 530
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 531
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 532
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 533
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 534
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 535
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 536
-"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 537
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 538
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 539
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 540
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 541
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 542
-"G:/Final Project/Neon/Neon/Content/Maps/SkyBox/ColorLUT.uasset" 543
-"G:/Final Project/Neon/Neon/Content/Geometry/Meshes/TemplateFloor.uasset" 544
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 545
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 546
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 547
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 548
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 549
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRestitutionMergeType.uasset" 550
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraFrictionMergeType.uasset" 551
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCollisionRadiusOptions.uasset" 552
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_GPUCollisionType.uasset" 553
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_CPUCollisionType.uasset" 554
-"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 555
-"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 556
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 557
-"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 558
-"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 559
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 560
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 561
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 562
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uasset" 563
-"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 564
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 565
-"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 566
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uasset" 567
-"../../Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uasset" 568
-"../../Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uasset" 569
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 570
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 571
-"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 572
-"../../Plugins/FX/Niagara/Content/Functions/CalculateRadiusFromSpriteSize.uasset" 573
-"../../Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uasset" 574
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 575
-"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 576
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/SkyBox/wallpaperflare_com_wallpaper.uasset" 0
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/FlyingCar_LS.uasset" 1
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/JumpSign.uasset" 2
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_01.uasset" 3
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Texture_Time_1.uasset" 4
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Secondary_Texture_1.uasset" 5
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Glitch_02.uasset" 6
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Glitch_01.uasset" 7
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Dots_02.uasset" 8
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Dots.uasset" 9
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_White.uasset" 10
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Secondary_Texture_3.uasset" 11
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Secondary_Texture_2.uasset" 12
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_OldTV_Lines_01.uasset" 13
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Glitch_04.uasset" 14
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Dots_04.uasset" 15
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Dots_03.uasset" 16
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Functions/MF_Advanced_Flicker.uasset" 17
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Master_Materials/M_Sci_Fi_Sign.uasset" 18
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/Crouch.uasset" 19
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_02_01.uasset" 20
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_02_02.uasset" 21
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_03_01.uasset" 22
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_03_02.uasset" 23
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_08_01.uasset" 24
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_08_02.uasset" 25
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_10_.uasset" 26
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_11_01.uasset" 27
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_11_02.uasset" 28
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_11_03.uasset" 29
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_12_01.uasset" 30
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_12_02.uasset" 31
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_13_.uasset" 32
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_14_.uasset" 33
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_15_01.uasset" 34
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_15_02.uasset" 35
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_16_01.uasset" 36
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_16_02.uasset" 37
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Black.uasset" 38
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Texture_Time_2.uasset" 39
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Texture_Time_3.uasset" 40
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BitMask.uasset" 41
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/BlurSampleOffsets.uasset" 42
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/GlowMaterial/M_Outlines.uasset" 43
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Silohouette.uasset" 44
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Small_Pipe_Corner.uasset" 45
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/Meshes/CubeMaterial.uasset" 46
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/Meshes/1M_Cube.uasset" 47
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/red.uasset" 48
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/SolidGlow3.uasset" 49
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/resume_clicked.uasset" 50
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/resume.uasset" 51
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/Quit-clicked.uasset" 52
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/Quit-button.uasset" 53
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/pause_menu_final.uasset" 54
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/PauseMenu.uasset" 55
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/hEALTH_BAR_EXAMPLE_GREEN.uasset" 56
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/Empty_health.uasset" 57
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/HealthBar.uasset" 58
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 59
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 61
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 62
+"../../../Engine/Content/BasicShapes/Plane.uasset" 63
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/Score_counter_box.uasset" 64
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/Score.uasset" 65
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/GameUI.uasset" 66
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningSlideRoot_Skeleton.uasset" 67
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/FootSteps/NewStep4.uasset" 68
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/FootSteps/NewStep3.uasset" 69
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/FootSteps/NewStep2.uasset" 70
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/FootSteps/NewStep.uasset" 71
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/FootSteps/Steps.uasset" 72
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 73
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 74
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Running__1__Anim_mixamo_com.uasset" 75
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Idle__1__Anim_mixamo_com.uasset" 76
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/RunningSlideRoot_Skeleton_BlendSpace1D.uasset" 77
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 78
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/RunningSlideRoot_Skeleton_AnimBlueprint.uasset" 79
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Slide/Slide.uasset" 80
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningSlideRoot_Anim.uasset" 81
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningSlideRoot_Anim_Montage.uasset" 82
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningSlideRoot_PhysicsAsset.uasset" 83
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/UMesh_PolySphere1.uasset" 84
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/UMesh_PM3D_Cube3D1_2.uasset" 85
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/UMesh_HairBase.uasset" 86
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/UMesh_Armor.uasset" 87
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/PM3D_Sphere3D1_1.uasset" 88
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningSlideRoot.uasset" 89
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/SkyBox/testcity.uasset" 90
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/SkyBox/testcity_Mat.uasset" 91
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/SkyBox/testcity_Mat_Inst.uasset" 92
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/WindowGlow3.uasset" 93
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Water_M.uasset" 94
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Water_N.uasset" 95
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 96
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 97
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Water_Ocean.uasset" 98
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset" 99
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/BluePrints/DamagingObject.uasset" 100
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/BluePrints/Small_Pipe_Corner2_Blueprint.uasset" 101
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/BluePrints/Small_Pipe_Corner4_Blueprint.uasset" 102
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/BluePrints/Small_Pipe_Corner8_Blueprint.uasset" 103
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 104
+"../../../Engine/Content/BasicShapes/Cube.uasset" 105
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/BluePrints/MovingPlatform/Platform2.uasset" 106
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Antenna.uasset" 107
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Concrete.uasset" 108
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Glass.uasset" 109
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Building_1.uasset" 110
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Building_2.uasset" 111
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Deck_Chair.uasset" 112
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Pipe.uasset" 113
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Small_Pipe.uasset" 114
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 115
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 116
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 117
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 118
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 119
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 120
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Textures/T_Male_N.uasset" 121
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 122
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 123
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 124
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 125
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 126
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 127
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 128
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 129
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 130
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 131
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 132
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 133
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 134
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 135
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Alpha_Body_MAT.uasset" 136
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Alpha_Joints_MAT.uasset" 137
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Kicking/Swish_4.uasset" 138
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Kicking/Swish_3.uasset" 139
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Kicking/Swish.uasset" 140
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/CrossPunch4UE4.uasset" 141
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/CrossPunch4UE4_Montage.uasset" 142
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/MmaKick4UE4.uasset" 143
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Kick.uasset" 144
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/NinjaIdle4UE4.uasset" 145
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Punching_2_4UE4.uasset" 146
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Punching_2_4UE4_Montage.uasset" 147
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/RunningForwardFlip4UE4.uasset" 148
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/SlidingDown.uasset" 149
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/RunningSlide_1_4UE4.uasset" 150
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/UE4Slide.uasset" 151
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/BluePrints/MovingPlatform/Platform.uasset" 152
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/MovingPlatform/Platform.uasset" 153
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/MovingPlatform/Platform12.uasset" 154
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/ArmorMaterial.uasset" 155
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/BackpackMaterial.uasset" 156
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/BodyMaterial.uasset" 157
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/EyesMaterial.uasset" 158
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/HairMaterial.uasset" 159
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 160
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NeonSkeletalMesh_Skeleton.uasset" 161
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NeonSkeletalMesh_PhysicsAsset.uasset" 162
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/UMesh_PolySphere1.uasset" 163
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/UMesh_PM3D_Cube3D1_2.uasset" 164
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/UMesh_HairBase.uasset" 165
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/UMesh_Armor.uasset" 166
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/PM3D_Sphere3D1_1.uasset" 167
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NeonSkeletalMesh.uasset" 168
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Standing_Idle_Anim_mixamo_com.uasset" 169
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running_Anim_mixamo_com.uasset" 170
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NeonSkeletalMesh_Skeleton_BlendSpace1D.uasset" 171
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NeonSkeletalMesh_Skeleton_AnimBlueprint.uasset" 172
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running_PhysicsAsset.uasset" 173
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/UMesh_PolySphere1.uasset" 174
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/UMesh_PM3D_Cube3D1_2.uasset" 175
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/UMesh_HairBase.uasset" 176
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/UMesh_Armor.uasset" 177
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/PM3D_Sphere3D1_1.uasset" 178
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running.uasset" 179
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running_Anim_Unreal_Take.uasset" 180
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running_Jump_PhysicsAsset.uasset" 181
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running_Jump.uasset" 182
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running_Jump_Anim_mixamo_com.uasset" 183
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running_Jump_Anim_Take_001.uasset" 184
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running_Slide_PhysicsAsset.uasset" 185
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running_Slide.uasset" 186
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running_Slide_Anim_mixamo_com.uasset" 187
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running_Slide_Anim_mixamo_com_Montage.uasset" 188
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Running_Slide_Anim_Take_001.uasset" 189
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Standing_Idle_PhysicsAsset.uasset" 190
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Standing_Idle.uasset" 191
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Animation/Standing_Idle_Anim_Unreal_Take.uasset" 192
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly_Skeleton.uasset" 193
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly_Anim.uasset" 194
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly_Anim_Montage.uasset" 195
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly_Skeleton_BlendSpace1D.uasset" 196
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly_Skeleton_AnimBlueprint.uasset" 197
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Slide__1__Skeleton.uasset" 198
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Jump_PhysicsAsset.uasset" 199
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/UMesh_PolySphere1.uasset" 200
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/UMesh_PM3D_Cube3D1_2.uasset" 201
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/UMesh_HairBase.uasset" 202
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/UMesh_Armor.uasset" 203
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/PM3D_Sphere3D1_1.uasset" 204
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Jump.uasset" 205
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Jump_Anim_mixamo_com.uasset" 206
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Jump_Anim_mixamo_com_Montage.uasset" 207
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Jump_Anim_Take_001.uasset" 208
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Slide__1__PhysicsAsset.uasset" 209
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Slide__1_.uasset" 210
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Slide__1__Anim_mixamo_com.uasset" 211
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Slide__1__Anim_mixamo_com_Montage.uasset" 212
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running_Slide__1__Anim_Take_001.uasset" 213
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running__1__PhysicsAsset.uasset" 214
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running__1_.uasset" 215
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running__1__Anim_mixamo_com.uasset" 216
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/Running__1__Anim_Take_001.uasset" 217
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningJumpRoot_PhysicsAsset.uasset" 218
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningJumpRoot.uasset" 219
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningJumpRoot_Anim.uasset" 220
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningRoot_PhysicsAsset.uasset" 221
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningRoot.uasset" 222
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/RunningRoot_Anim.uasset" 223
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Idle__1__PhysicsAsset.uasset" 224
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/UMesh_PolySphere1.uasset" 225
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/UMesh_PM3D_Cube3D1_2.uasset" 226
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/UMesh_HairBase.uasset" 227
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/UMesh_Armor.uasset" 228
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/PM3D_Sphere3D1_1.uasset" 229
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Idle__1_.uasset" 230
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Idle__1__Anim_Unreal_Take.uasset" 231
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Running__1__PhysicsAsset.uasset" 232
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Running__1_.uasset" 233
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/NewAnimations/AnimationsWithRoot/WorkingAnims/Running__1__Anim_Unreal_Take.uasset" 234
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/BGM/NeonBGM.uasset" 235
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Hum/NeonHum.uasset" 236
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Jump/Jump3.uasset" 237
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Jump/Jump2.uasset" 238
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Jump/Jump1.uasset" 239
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Jump/Jumps.uasset" 240
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/JumpEnd/JumpEnd3.uasset" 241
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/JumpEnd/JumpEnd2.uasset" 242
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/JumpEnd/JumpEnd.uasset" 243
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/JumpEnd/JumpsEnd.uasset" 244
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Punch/Punch2.uasset" 245
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Punch/Punch1.uasset" 246
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Punch/Punches.uasset" 247
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SideScrollerBP/SideScrollerOverview.uasset" 248
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SideScrollerBP/Blueprints/SideScrollerGameMode.uasset" 249
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SideScrollerBP/Meshes/CubeMaterial.uasset" 250
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SideScrollerBP/Meshes/Ramp_Mesh.uasset" 251
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Basic_Wall.uasset" 252
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Architecture/Pillar_50x500.uasset" 253
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Architecture/Wall_400x300.uasset" 254
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Architecture/Wall_400x400.uasset" 255
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Architecture/Wall_500x500.uasset" 256
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 257
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 258
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Collapse01.uasset" 259
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Collapse02.uasset" 260
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Explosion01.uasset" 261
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Explosion02.uasset" 262
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Fire01.uasset" 263
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Fire_Sparks01.uasset" 264
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Light01.uasset" 265
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Light01_Cue.uasset" 266
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Light02.uasset" 267
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Light02_Cue.uasset" 268
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Smoke01.uasset" 269
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Starter_Birds01.uasset" 270
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Starter_Music01.uasset" 271
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Starter_Wind05.uasset" 272
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Starter_Wind06.uasset" 273
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Steam01.uasset" 274
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 275
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 276
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 277
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 278
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 279
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Burst_M.uasset" 280
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/Materials/M_Burst.uasset" 281
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 282
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 283
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 284
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/P_Explosion.uasset" 285
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Explosion_Cue.uasset" 286
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 287
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 288
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 289
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Bush_N.uasset" 290
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Bush_D.uasset" 291
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/Materials/M_Bush.uasset" 292
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_Bush.uasset" 293
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Chair_N.uasset" 294
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Chair_M.uasset" 295
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/Materials/M_Chair.uasset" 296
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_Couch.uasset" 297
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Door_N.uasset" 298
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Door_M.uasset" 299
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/Materials/M_Door.uasset" 300
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Glass.uasset" 301
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_Door.uasset" 302
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 303
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 304
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 305
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 306
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_RockMesh_N.uasset" 307
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_RockMesh_M.uasset" 308
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 309
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/Materials/M_Rock.uasset" 310
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_Rock.uasset" 311
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Shelf_N.uasset" 312
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Shelf_M.uasset" 313
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/Materials/M_Shelf.uasset" 314
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_Shelf.uasset" 315
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Basic_Floor.uasset" 316
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_Stairs.uasset" 317
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Cone.uasset" 318
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 319
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 320
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Pipe.uasset" 321
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 322
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 323
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Plane.uasset" 324
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Torus.uasset" 325
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Trim.uasset" 326
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 327
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 328
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 329
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Tube.uasset" 330
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 331
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 332
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 333
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Textures/GodRay.uasset" 334
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Textures/GodRayLight.uasset" 335
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/full_bar.uasset" 336
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/Score1.uasset" 337
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/U_Empty_health.uasset" 338
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/U_full_bar.uasset" 339
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/BackButton.uasset" 340
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/BackButtonHover.uasset" 341
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/BackButtonPressed.uasset" 342
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/ControlMenu.uasset" 343
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/ControlMenuUpdated.uasset" 344
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/Controls_Button_selected.uasset" 345
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/Exit_button_selected.uasset" 346
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/main_screen1.uasset" 347
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/main_screen1_Mat.uasset" 348
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/newgame_clicked.uasset" 349
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/new_game.uasset" 350
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/Exit_button_clicked.uasset" 351
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/Exit_button.uasset" 352
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/controls_button.uasset" 353
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/controlls_clicked.uasset" 354
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/new_game.uasset" 355
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/Exit_button.uasset" 356
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/controls_button.uasset" 357
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/controller.uasset" 358
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/back_clicked.uasset" 359
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/back.uasset" 360
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/BG.uasset" 361
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/ControlsMenu.uasset" 362
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/MMenu.uasset" 363
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/MenuController.uasset" 364
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/New_game_selected.uasset" 365
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/Score1.uasset" 366
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/VFX/ThirdPersonBP/feather_test1.uasset" 367
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/VFX/ThirdPersonBP/Feather.uasset" 368
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/VFX/ThirdPersonBP/featherburst.uasset" 369
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 370
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 371
+"../../../Engine/Content/BasicShapes/Cone.uasset" 372
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 373
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 374
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 375
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 376
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 377
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 378
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 379
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 380
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 381
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 382
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 383
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 384
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 385
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 386
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 387
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 388
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 389
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 390
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 391
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 392
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 393
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 394
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 395
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 396
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 397
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 398
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 399
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 400
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 401
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 402
+"../../../Engine/Content/EditorResources/S_Note.uasset" 403
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 404
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 405
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 406
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 407
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 408
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 409
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 410
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 411
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 412
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 413
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 414
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 415
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 416
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 417
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 418
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 419
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 420
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 421
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 422
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 423
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 424
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 425
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 426
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 427
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 428
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 429
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 430
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 431
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 432
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 433
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 434
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 435
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 436
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 437
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 438
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 439
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 440
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 441
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 442
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 443
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 444
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 445
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 446
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 447
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 448
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 449
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 450
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 451
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 452
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 453
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 454
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 455
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 456
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 457
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 458
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 459
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 460
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 461
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 462
+"../../../Engine/Content/EngineResources/Black.uasset" 463
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 464
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 465
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 466
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 467
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 468
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 469
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 470
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 471
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 472
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 473
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 474
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 475
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 476
+"../../../Engine/Content/EngineSounds/Master.uasset" 477
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 478
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 479
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 480
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 481
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 482
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 483
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 484
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 485
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 486
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 487
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 488
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 489
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 490
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 491
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 492
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 493
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 494
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 495
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 496
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 497
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 498
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 499
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 500
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 501
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 502
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 503
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 504
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 505
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 506
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 507
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 508
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 509
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 510
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 511
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 512
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 513
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 514
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 515
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 516
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 517
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 518
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 519
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 520
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 521
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 522
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 523
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 524
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 525
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 526
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 527
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 528
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 529
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 530
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 531
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 532
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 533
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 534
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 535
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 536
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 537
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 538
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 539
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 540
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 541
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 542
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 543
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 544
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 545
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 546
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/SkyBox/ColorLUT.uasset" 547
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/Meshes/TemplateFloor.uasset" 548
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 549
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 550
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 551
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 552
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 553
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRestitutionMergeType.uasset" 554
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraFrictionMergeType.uasset" 555
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCollisionRadiusOptions.uasset" 556
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_GPUCollisionType.uasset" 557
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_CPUCollisionType.uasset" 558
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleSpriteSize.uasset" 559
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 560
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 561
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 562
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 563
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 564
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 565
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 566
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocity.uasset" 567
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 568
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 569
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 570
+"../../Plugins/FX/Niagara/Content/Modules/Collision/SceneDepthTest.uasset" 571
+"../../Plugins/FX/Niagara/Content/Modules/Collision/NiagaraDistanceFieldCollisions.uasset" 572
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 573
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 574
+"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 575
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 576
 "../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 577
-"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 578
-"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 579
-"../../Plugins/FX/Niagara/Content/Functions/Collision/RandomizeCollisionNormals.uasset" 580
-"../../Plugins/FX/Niagara/Content/Functions/Collision/PlaneSphereCollisionDetection.uasset" 581
-"../../Plugins/FX/Niagara/Content/Functions/ReflectVector.uasset" 582
-"../../Plugins/FX/Niagara/Content/Functions/Math/CentimeterMeterConversion.uasset" 583
-"../../Plugins/FX/Niagara/Content/Modules/Collision/SceneDepthTest.uasset" 584
-"../../Plugins/FX/Niagara/Content/Modules/Collision/NiagaraDistanceFieldCollisions.uasset" 585
-"../../Plugins/FX/Niagara/Content/Modules/Collision/CollisionQueryAndResponse.uasset" 586
-"../../Plugins/FX/Niagara/Content/Modules/Collision/Collision.uasset" 587
-"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 588
-"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 589
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 590
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 591
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 592
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 593
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 594
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 595
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 596
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SubUVLookupMode.uasset" 597
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 598
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 599
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 600
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 601
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 602
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 603
-"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 604
-"../../Plugins/FX/Niagara/Content/Functions/RandomRangeInteger.uasset" 605
-"../../Plugins/FX/Niagara/Content/Modules/Update/SubUV/V2/SubUVAnimation.uasset" 606
-"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 607
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 608
-"../../Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 609
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 610
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 611
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 612
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 613
-"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 614
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 615
-"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 616
-"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 617
-"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 618
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 619
-"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 620
-"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 621
-"G:/Final Project/Neon/Neon/Content/Maps/GlowMaterial/Smoke_stuff/NE_Smoke.uasset" 622
-"G:/Final Project/Neon/Neon/Content/Maps/GlowMaterial/Smoke_stuff/Smoke_System.uasset" 623
-"G:/Final Project/Neon/Neon/Content/Maps/GlowMaterial/M_Outlines_Inst.uasset" 624
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 625
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 626
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 627
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 628
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 629
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 630
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 631
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 632
-"G:/Final Project/Neon/Neon/Content/Maps/MainLevel.umap" 633
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Spark_Core.uasset" 634
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset" 635
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/Materials/M_Spark.uasset" 636
-"G:/Final Project/Neon/Neon/Content/VFX/ThirdPersonBP/Sparks.uasset" 637
-"G:/Final Project/Neon/Neon/Content/VFX/ThirdPersonBP/leaf_alpha_test1.uasset" 638
-"G:/Final Project/Neon/Neon/Content/VFX/ThirdPersonBP/Leaf.uasset" 639
-"G:/Final Project/Neon/Neon/Content/VFX/ThirdPersonBP/Leaf1.uasset" 640
-"G:/Final Project/Neon/Neon/Content/Maps/SkyBox/GlowingMaster.uasset" 641
-"G:/Final Project/Neon/Neon/Content/Maps/SkyBox/OrangeGlowMaterial.uasset" 642
-"G:/Final Project/Neon/Neon/Content/VFX/ThirdPersonBP/Fallers_Orange.uasset" 643
-"G:/Final Project/Neon/Neon/Content/Maps/SkyBox/BlueGlowMat.uasset" 644
-"G:/Final Project/Neon/Neon/Content/VFX/ThirdPersonBP/Fallers_Blue.uasset" 645
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_GlassWindow.uasset" 646
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/P_Steam_Lit.uasset" 647
-"G:/Final Project/Neon/Neon/Content/SFX/Hum/NeonHum2.uasset" 648
-"G:/Final Project/Neon/Neon/Content/SFX/Crow_-_Sound_Effect___ProSounds.uasset" 649
-"G:/Final Project/Neon/Neon/Content/SFX/BGM/NeonSynthBGM.uasset" 650
-"G:/Final Project/Neon/Neon/Content/SFX/BGM/BGM.uasset" 651
-"G:/Final Project/Neon/Neon/Content/SFX/Ambience/Police.uasset" 652
-"G:/Final Project/Neon/Neon/Content/SFX/Ambience/Helicopter.uasset" 653
-"G:/Final Project/Neon/Neon/Content/SFX/Ambience/City.uasset" 654
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Water_Tower.uasset" 655
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Lines.uasset" 656
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Wall.uasset" 657
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Rooftop_Vent.uasset" 658
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Rooftop_Entrance_2.uasset" 659
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Rooftop_Entrance_1.uasset" 660
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Roof_Elevator.uasset" 661
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/RFV.uasset" 662
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Pipe_T.uasset" 663
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Pipe_Corner.uasset" 664
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Pergola.uasset" 665
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Huge_Building_2.uasset" 666
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Huge_Building.uasset" 667
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Fan_Exhaust_Generator.uasset" 668
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Fan_Exhaust_Fan.uasset" 669
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Deck_Table.uasset" 670
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Crate.uasset" 671
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Crane_Foundation.uasset" 672
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Crane.uasset" 673
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Material_008.uasset" 674
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Construction_Site.uasset" 675
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Chainlink_Fence.uasset" 676
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Dark.uasset" 677
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Building_8.uasset" 678
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Building_7.uasset" 679
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Building_6.uasset" 680
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Building_5.uasset" 681
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Building_4.uasset" 682
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Building_3.uasset" 683
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/02_-_Default.uasset" 684
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Billboard_Frame_16-9.uasset" 685
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Board.uasset" 686
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Billboard_Board_16-9.uasset" 687
-"G:/Final Project/Neon/Neon/Content/Geometry/BlenderMeshes/Barrel.uasset" 688
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Sci_Fi_Sign_Default.uasset" 689
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Static_Meshes/SM_Sign.uasset" 690
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 691
-"G:/Final Project/Neon/Neon/Content/Maps/SkyBox/neonbuildings.uasset" 692
-"G:/Final Project/Neon/Neon/Content/Maps/SkyBox/neonbuildings_Mat.uasset" 693
-"G:/Final Project/Neon/Neon/Content/Maps/SkyBox/neonbuildings_Mat_Inst.uasset" 694
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/WindowGlow4.uasset" 695
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/WindowGlow2.uasset" 696
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/WindowGlow.uasset" 697
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/blue.uasset" 698
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/SolidGlow4.uasset" 699
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/SolidGlow2.uasset" 700
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/SolidGlow.uasset" 701
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/runningsign.uasset" 702
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/RunningSign.uasset" 703
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Texture_Time_4.uasset" 704
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_04.uasset" 705
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Wipe_Effect_3.uasset" 706
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/JumpSign.uasset" 707
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/GoSign.uasset" 708
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/Go.uasset" 709
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/FinishSign.uasset" 710
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/Finished.uasset" 711
-"G:/Final Project/Neon/Neon/Content/Textures/SeeThrough.uasset" 712
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 713
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 714
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 715
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_MacroVariation.uasset" 716
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Tech_Panel.uasset" 717
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 718
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 719
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 720
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 721
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Metal_Steel.uasset" 722
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 723
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 724
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Metal_Copper.uasset" 725
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 726
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 727
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 728
-"G:/Final Project/Neon/Neon/Content/BluePrints/KillVolume.uasset" 729
-"G:/Final Project/Neon/Neon/Content/BluePrints/Chainlink_Fence5_Blueprint.uasset" 730
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 731
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/Win_screen.uasset" 732
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/playagain_selected.uasset" 733
-"G:/Final Project/Neon/Neon/Content/UI/NEW_UI/play_again.uasset" 734
-"G:/Final Project/Neon/Neon/Content/UI/WinPage.uasset" 735
-"G:/Final Project/Neon/Neon/Content/BluePrints/WinBox.uasset" 736
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 737
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 738
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 739
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 740
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 741
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly_PhysicsAsset.uasset" 742
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Bird/UMesh_Bird.uasset" 743
-"G:/Final Project/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly.uasset" 744
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_Vault_RM.uasset" 745
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_Vault_RM_Montage.uasset" 746
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_JumpingDownFromWall_RM.uasset" 747
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_JumpingDownFromWall_RM_Montage.uasset" 748
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_GettingUp_RM.uasset" 749
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_GettingUp_RM_Montage.uasset" 750
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_Climb_RM.uasset" 751
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_Climb_RM_Montage.uasset" 752
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 753
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Textures/T_Female_N.uasset" 754
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 755
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 756
-"G:/Final Project/Neon/Neon/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 757
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/MaleCrouchPose4UE4.uasset" 758
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/CrouchedWalking4UE4.uasset" 759
-"G:/Final Project/Neon/Neon/Content/Mannequin/MixamoAnimations/CrouchingBS.uasset" 760
-"G:/Final Project/Neon/Neon/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 761
-"G:/Final Project/Neon/Neon/Content/Mannequin/Animations/ThirdPersonRun.uasset" 762
-"G:/Final Project/Neon/Neon/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 763
-"G:/Final Project/Neon/Neon/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 764
-"G:/Final Project/Neon/Neon/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 765
-"G:/Final Project/Neon/Neon/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 766
-"G:/Final Project/Neon/Neon/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 767
-"G:/Final Project/Neon/Neon/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 768
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_05.uasset" 769
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_High_Brightness.uasset" 770
-"G:/Final Project/Neon/Neon/Content/SideScrollerBP/Blueprints/Bird_AI.uasset" 771
-"G:/Final Project/Neon/Neon/Content/Maps/NeonCity.umap" 772
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_07_01.uasset" 773
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Level_Content/MI_Sign_B_01_01.uasset" 774
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_07_02.uasset" 775
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Level_Content/MI_Sign_B_01_02.uasset" 776
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_09_02.uasset" 777
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Level_Content/MI_SIgn_B_02_01.uasset" 778
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_OldTV_Lines_02.uasset" 779
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_09_01.uasset" 780
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Level_Content/MI_Sign_B_02_02.uasset" 781
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_06.uasset" 782
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Glitch_Effect_1.uasset" 783
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Glitch_03.uasset" 784
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Glitch_Effect_2.uasset" 785
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Glitch_Effect_3.uasset" 786
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Glitched_Pixel_Screen_1.uasset" 787
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Glitched_Pixel_Screen_2.uasset" 788
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Glitched_Screen.uasset" 789
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_High_Flicker.uasset" 790
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_High_Flicker_Inverted.uasset" 791
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Low_Flicker.uasset" 792
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Low_Flicker_Inverted.uasset" 793
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Mid_Flicker.uasset" 794
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_OldTV_Effect_1.uasset" 795
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_OldTV_Effect_2.uasset" 796
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_03.uasset" 797
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Pixel_Effect.uasset" 798
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Pixel_Effect_2.uasset" 799
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Pixel_Screen_1.uasset" 800
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Pixel_Screen_2.uasset" 801
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Mid_Flicker_Inverted.uasset" 802
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Level_Content/M_Text_Material_Emissive.uasset" 803
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Demo_Level_BuiltData.uasset" 804
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Pixel_Screen_3.uasset" 805
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Pixel_Wipe_Screen.uasset" 806
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Wipe_Effect_1.uasset" 807
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Wipe_Effect_2.uasset" 808
-"G:/Final Project/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Demo_Level.umap" 809
-"G:/Final Project/Neon/Neon/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset" 810
-"G:/Final Project/Neon/Neon/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" 811
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 812
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 813
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 814
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 815
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 816
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 817
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 818
-"G:/Final Project/Neon/Neon/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 819
-"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 820
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 821
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 822
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 823
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 824
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 825
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 826
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 827
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 828
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 829
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 830
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_AssetPlatform.uasset" 831
-"G:/Final Project/Neon/Neon/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 832
-"G:/Final Project/Neon/Neon/Content/StarterContent/Maps/Advanced_Lighting.umap" 833
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Statue_N.uasset" 834
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Statue_M.uasset" 835
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 836
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 837
-"G:/Final Project/Neon/Neon/Content/StarterContent/Architecture/Floor_400x400.uasset" 838
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_TableRound_N.uasset" 839
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_TableRound_M.uasset" 840
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/Materials/M_TableRound.uasset" 841
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_TableRound.uasset" 842
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/Materials/M_Statue.uasset" 843
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_Statue.uasset" 844
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_Chair.uasset" 845
-"G:/Final Project/Neon/Neon/Content/StarterContent/Maps/Minimal_Default.umap" 846
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Lamp_N.uasset" 847
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Lamp_M.uasset" 848
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/Materials/M_Lamp.uasset" 849
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 850
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 851
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Steam01_Cue.uasset" 852
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 853
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 854
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/P_Sparks.uasset" 855
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 856
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 857
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/P_Smoke.uasset" 858
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Smoke01_Cue.uasset" 859
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 860
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 861
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 862
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 863
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 864
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/P_Fire.uasset" 865
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Fire01_Cue.uasset" 866
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 867
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 868
-"G:/Final Project/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 869
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 870
-"G:/Final Project/Neon/Neon/Content/StarterContent/Audio/Collapse_Cue.uasset" 871
-"G:/Final Project/Neon/Neon/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 872
-"G:/Final Project/Neon/Neon/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 873
-"G:/Final Project/Neon/Neon/Content/StarterContent/Architecture/Wall_400x200.uasset" 874
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Sphere.uasset" 875
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 876
-"G:/Final Project/Neon/Neon/Content/StarterContent/Shapes/Shape_Cube.uasset" 877
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Frame_N.uasset" 878
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Frame_M.uasset" 879
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/Materials/M_Frame.uasset" 880
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_WindowFrame.uasset" 881
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_PillarFrame300.uasset" 882
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_PillarFrame.uasset" 883
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_DoorFrame.uasset" 884
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/SM_CornerFrame.uasset" 885
-"G:/Final Project/Neon/Neon/Content/StarterContent/Props/MaterialSphere.uasset" 886
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 887
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 888
-"G:/Final Project/Neon/Neon/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 889
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 890
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 891
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 892
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 893
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 894
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Wood_Pine.uasset" 895
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 896
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 897
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Wood_Oak.uasset" 898
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 899
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 900
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 901
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 902
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 903
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 904
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Water_Lake.uasset" 905
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 906
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 907
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 908
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 909
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 910
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 911
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 912
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 913
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Rock_Slate.uasset" 914
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 915
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 916
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 917
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 918
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 919
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 920
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 921
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 922
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 923
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Metal_Rust.uasset" 924
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 925
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Metal_Gold.uasset" 926
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 927
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 928
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Ground_Moss.uasset" 929
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 930
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 931
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 932
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 933
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 934
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Ground_Grass.uasset" 935
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 936
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 937
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 938
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 939
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 940
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 941
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 942
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 943
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 944
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 945
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 946
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 947
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 948
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 949
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Gradinet_01.uasset" 950
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 951
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 952
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 953
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 954
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 955
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 956
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 957
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 958
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 959
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 960
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 961
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 962
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 963
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 964
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 965
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 966
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 967
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 968
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 969
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 970
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 971
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 972
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 973
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 974
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 975
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 976
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 977
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 978
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 979
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 980
-"G:/Final Project/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 981
-"G:/Final Project/Neon/Neon/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 982
-"G:/Final Project/Neon/Neon/Content/StarterContent/Maps/StarterMap.umap" 983
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/MMcontroller.uasset" 984
-"G:/Final Project/Neon/Neon/Content/UI/MainMenu/MainMenu.umap" 985
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 986
-"../../../Engine/Content/Maps/Entry.umap" 987
+"../../Plugins/FX/Niagara/Content/Functions/Collision/RandomizeCollisionNormals.uasset" 578
+"../../Plugins/FX/Niagara/Content/Functions/Collision/PlaneSphereCollisionDetection.uasset" 579
+"../../Plugins/FX/Niagara/Content/Functions/ReflectVector.uasset" 580
+"../../Plugins/FX/Niagara/Content/Functions/ProjectVectorOnPlane.uasset" 581
+"../../Plugins/FX/Niagara/Content/Functions/Math/CentimeterMeterConversion.uasset" 582
+"../../Plugins/FX/Niagara/Content/Modules/Collision/CollisionQueryAndResponse.uasset" 583
+"../../Plugins/FX/Niagara/Content/Functions/Helpers/DoOnce_fn.uasset" 584
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCalculateRadiusOptions.uasset" 585
+"../../Plugins/FX/Niagara/Content/Functions/CalculateRadiusFromSpriteSize.uasset" 586
+"../../Plugins/FX/Niagara/Content/Functions/CalculateMeshRadius.uasset" 587
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 588
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 589
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 590
+"../../Plugins/FX/Niagara/Content/Modules/Collision/Collision.uasset" 591
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 592
+"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 593
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSphereDistributionMode.uasset" 594
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 595
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 596
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 597
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 598
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 599
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 600
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 601
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SubUVLookupMode.uasset" 602
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 603
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 604
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 605
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 606
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 607
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 608
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 609
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeInteger.uasset" 610
+"../../Plugins/FX/Niagara/Content/Modules/Update/SubUV/V2/SubUVAnimation.uasset" 611
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 612
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 613
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomPointInSphere.uasset" 614
+"../../Plugins/FX/Niagara/Content/Functions/SphericalToCartesianCoordinates.uasset" 615
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/V2/SphereLocation.uasset" 616
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 617
+"../../Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 618
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 619
+"../../Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 620
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 621
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 622
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 623
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 624
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 625
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/GlowMaterial/Smoke_stuff/NE_Smoke.uasset" 626
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/GlowMaterial/Smoke_stuff/Smoke_System.uasset" 627
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/GlowMaterial/M_Outlines_Inst.uasset" 628
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 629
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 630
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 631
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 632
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 633
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 634
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 635
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 636
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/MainLevel.umap" 637
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Spark_Core.uasset" 638
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/MultiplyAdd.uasset" 639
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/Materials/M_Spark.uasset" 640
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/VFX/ThirdPersonBP/Sparks.uasset" 641
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/VFX/ThirdPersonBP/leaf_alpha_test1.uasset" 642
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/VFX/ThirdPersonBP/Leaf.uasset" 643
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/VFX/ThirdPersonBP/Leaf1.uasset" 644
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/SkyBox/GlowingMaster.uasset" 645
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/SkyBox/OrangeGlowMaterial.uasset" 646
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/VFX/ThirdPersonBP/Fallers_Orange.uasset" 647
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/SkyBox/BlueGlowMat.uasset" 648
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/VFX/ThirdPersonBP/Fallers_Blue.uasset" 649
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_GlassWindow.uasset" 650
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/P_Steam_Lit.uasset" 651
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Hum/NeonHum2.uasset" 652
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Crow_-_Sound_Effect___ProSounds.uasset" 653
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/BGM/NeonSynthBGM.uasset" 654
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/BGM/BGM.uasset" 655
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Ambience/Police.uasset" 656
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Ambience/Helicopter.uasset" 657
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SFX/Ambience/City.uasset" 658
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Water_Tower.uasset" 659
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Lines.uasset" 660
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Wall.uasset" 661
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Rooftop_Vent.uasset" 662
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Rooftop_Entrance_2.uasset" 663
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Rooftop_Entrance_1.uasset" 664
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Roof_Elevator.uasset" 665
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/RFV.uasset" 666
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Pipe_T.uasset" 667
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Pipe_Corner.uasset" 668
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Pergola.uasset" 669
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Huge_Building_2.uasset" 670
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Huge_Building.uasset" 671
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Fan_Exhaust_Generator.uasset" 672
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Fan_Exhaust_Fan.uasset" 673
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Deck_Table.uasset" 674
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Crate.uasset" 675
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Crane_Foundation.uasset" 676
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Crane.uasset" 677
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Material_008.uasset" 678
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Construction_Site.uasset" 679
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Chainlink_Fence.uasset" 680
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Dark.uasset" 681
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Building_8.uasset" 682
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Building_7.uasset" 683
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Building_6.uasset" 684
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Building_5.uasset" 685
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Building_4.uasset" 686
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Building_3.uasset" 687
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/02_-_Default.uasset" 688
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Billboard_Frame_16-9.uasset" 689
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Board.uasset" 690
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Billboard_Board_16-9.uasset" 691
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Geometry/BlenderMeshes/Barrel.uasset" 692
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Sci_Fi_Sign_Default.uasset" 693
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Static_Meshes/SM_Sign.uasset" 694
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 695
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/SkyBox/neonbuildings.uasset" 696
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/SkyBox/neonbuildings_Mat.uasset" 697
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/SkyBox/neonbuildings_Mat_Inst.uasset" 698
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/WindowGlow4.uasset" 699
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/WindowGlow2.uasset" 700
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/WindowGlow.uasset" 701
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/blue.uasset" 702
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/SolidGlow4.uasset" 703
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/SolidGlow2.uasset" 704
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/SolidGlow.uasset" 705
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/runningsign.uasset" 706
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/RunningSign.uasset" 707
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_04.uasset" 708
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Texture_Time_4.uasset" 709
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Wipe_Effect_3.uasset" 710
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/JumpSign.uasset" 711
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/GoSign.uasset" 712
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/Go.uasset" 713
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/FinishSign.uasset" 714
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/Finished.uasset" 715
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Textures/SeeThrough.uasset" 716
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 717
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 718
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 719
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_MacroVariation.uasset" 720
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Tech_Panel.uasset" 721
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 722
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 723
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 724
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 725
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Metal_Steel.uasset" 726
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 727
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 728
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Metal_Copper.uasset" 729
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 730
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 731
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 732
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/BluePrints/KillVolume.uasset" 733
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/BluePrints/Chainlink_Fence5_Blueprint.uasset" 734
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 735
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/Win_screen.uasset" 736
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/playagain_selected.uasset" 737
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/NEW_UI/play_again.uasset" 738
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/WinPage.uasset" 739
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/BluePrints/WinBox.uasset" 740
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 741
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 742
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 743
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 744
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 745
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly_PhysicsAsset.uasset" 746
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Bird/UMesh_Bird.uasset" 747
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/PlayerCharacter/Bird/FlyAnimFly.uasset" 748
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_Vault_RM.uasset" 749
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_Vault_RM_Montage.uasset" 750
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_JumpingDownFromWall_RM.uasset" 751
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_JumpingDownFromWall_RM_Montage.uasset" 752
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_GettingUp_RM.uasset" 753
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_GettingUp_RM_Montage.uasset" 754
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_Climb_RM.uasset" 755
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/Parkour/MQ_Climb_RM_Montage.uasset" 756
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 757
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Textures/T_Female_N.uasset" 758
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 759
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 760
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 761
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/MaleCrouchPose4UE4.uasset" 762
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/CrouchedWalking4UE4.uasset" 763
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/MixamoAnimations/CrouchingBS.uasset" 764
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 765
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Animations/ThirdPersonRun.uasset" 766
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 767
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 768
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 769
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 770
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 771
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 772
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_05.uasset" 773
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_High_Brightness.uasset" 774
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SideScrollerBP/Blueprints/Bird_AI.uasset" 775
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/Maps/NeonCity.umap" 776
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Wipe_Effect_2.uasset" 777
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Wipe_Effect_1.uasset" 778
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_06.uasset" 779
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Pixel_Wipe_Screen.uasset" 780
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Pixel_Screen_3.uasset" 781
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Pixel_Screen_2.uasset" 782
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Pixel_Screen_1.uasset" 783
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_03.uasset" 784
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Pixel_Effect_2.uasset" 785
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Pixel_Effect.uasset" 786
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_OldTV_Lines_02.uasset" 787
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_OldTV_Effect_2.uasset" 788
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_OldTV_Effect_1.uasset" 789
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Mid_Flicker.uasset" 790
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Low_Flicker_Inverted.uasset" 791
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Low_Flicker.uasset" 792
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_High_Flicker_Inverted.uasset" 793
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_High_Flicker.uasset" 794
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Glitched_Screen.uasset" 795
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Glitched_Pixel_Screen_2.uasset" 796
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Glitched_Pixel_Screen_1.uasset" 797
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Glitch_Effect_3.uasset" 798
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/Material_Textures/T_Glitch_03.uasset" 799
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Glitch_Effect_2.uasset" 800
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Glitch_Effect_1.uasset" 801
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_09_01.uasset" 802
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Level_Content/MI_Sign_B_02_02.uasset" 803
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_09_02.uasset" 804
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Level_Content/MI_SIgn_B_02_01.uasset" 805
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_07_02.uasset" 806
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Level_Content/MI_Sign_B_01_02.uasset" 807
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Textures/T_Sign_07_01.uasset" 808
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Level_Content/MI_Sign_B_01_01.uasset" 809
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Level_Content/M_Text_Material_Emissive.uasset" 810
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Materials/Material_Instances/MI_Mid_Flicker_Inverted.uasset" 811
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/ArteJEF_SciFiSign/Levels/Demo_Level.umap" 812
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" 813
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_AssetPlatform.uasset" 814
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 815
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 816
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 817
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 818
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 819
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 820
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 821
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 822
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 823
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 824
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 825
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 826
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 827
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 828
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 829
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 830
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 831
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 832
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 833
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 834
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Maps/Advanced_Lighting.umap" 835
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Architecture/Floor_400x400.uasset" 836
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_TableRound_N.uasset" 837
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_TableRound_M.uasset" 838
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/Materials/M_TableRound.uasset" 839
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_TableRound.uasset" 840
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Statue_N.uasset" 841
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Statue_M.uasset" 842
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/Materials/M_Statue.uasset" 843
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 844
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_Statue.uasset" 845
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_Chair.uasset" 846
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 847
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Maps/Minimal_Default.umap" 848
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Sphere.uasset" 849
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 850
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Shapes/Shape_Cube.uasset" 851
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Frame_M.uasset" 852
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Frame_N.uasset" 853
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/Materials/M_Frame.uasset" 854
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_WindowFrame.uasset" 855
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_PillarFrame300.uasset" 856
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_PillarFrame.uasset" 857
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_DoorFrame.uasset" 858
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_CornerFrame.uasset" 859
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/MaterialSphere.uasset" 860
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 861
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 862
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 863
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 864
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 865
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 866
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 867
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 868
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Wood_Pine.uasset" 869
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 870
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 871
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Wood_Oak.uasset" 872
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 873
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 874
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 875
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 876
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 877
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 878
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Water_Lake.uasset" 879
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 880
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 881
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 882
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 883
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 884
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 885
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 886
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 887
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Rock_Slate.uasset" 888
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 889
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 890
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 891
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 892
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 893
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 894
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 895
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 896
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 897
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Metal_Rust.uasset" 898
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 899
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Metal_Gold.uasset" 900
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 901
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 902
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Ground_Moss.uasset" 903
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 904
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 905
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 906
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 907
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 908
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Ground_Grass.uasset" 909
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 910
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 911
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 912
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 913
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 914
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 915
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 916
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 917
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 918
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 919
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 920
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 921
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 922
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Architecture/Wall_400x200.uasset" 923
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 924
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 925
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 926
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 927
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Gradinet_01.uasset" 928
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 929
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 930
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 931
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 932
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 933
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 934
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 935
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 936
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 937
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 938
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 939
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 940
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 941
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 942
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 943
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 944
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 945
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 946
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 947
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 948
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 949
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 950
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 951
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 952
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 953
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 954
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 955
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 956
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 957
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Lamp_N.uasset" 958
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Lamp_M.uasset" 959
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/Materials/M_Lamp.uasset" 960
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 961
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 962
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Steam01_Cue.uasset" 963
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 964
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 965
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/P_Sparks.uasset" 966
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 967
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 968
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/P_Smoke.uasset" 969
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Smoke01_Cue.uasset" 970
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 971
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 972
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 973
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 974
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 975
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Particles/P_Fire.uasset" 976
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Fire01_Cue.uasset" 977
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 978
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 979
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 980
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 981
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Audio/Collapse_Cue.uasset" 982
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 983
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 984
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/StarterContent/Maps/StarterMap.umap" 985
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/MMcontroller.uasset" 986
+"../../../../../../Users/jthig/Documents/GitHub/Neon/Neon/Content/UI/MainMenu/MainMenu.umap" 987
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 988
+"../../../Engine/Content/Maps/Entry.umap" 989
